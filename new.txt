@@ -1,0 +1,42 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1AAF-A53C
+
+ Directory of C:\Users\elkana.mbiti
+
+11/29/2018  02:49 PM    <DIR>          .
+11/29/2018  02:49 PM    <DIR>          ..
+11/09/2018  01:28 PM            24,070 .bash_history
+11/28/2018  07:19 PM    <DIR>          .config
+10/17/2018  07:59 PM    <DIR>          .eclipse
+11/05/2018  07:52 PM               107 .gitconfig
+11/02/2018  05:26 PM    <DIR>          .groovy
+11/12/2018  10:38 PM    <DIR>          .idlerc
+11/29/2018  01:45 PM    <DIR>          .jenkins
+10/01/2018  05:57 PM    <DIR>          .katalon
+11/26/2018  06:33 PM    <DIR>          .m2
+10/16/2018  05:24 PM    <DIR>          .nbi
+11/29/2018  12:08 PM                 0 .node_repl_history
+11/28/2018  04:55 PM    <DIR>          .p2
+10/16/2018  04:58 PM    <DIR>          .tooling
+11/05/2018  07:52 PM             2,355 .viminfo
+11/15/2018  02:24 PM    <DIR>          3D Objects
+11/15/2018  02:24 PM    <DIR>          Contacts
+11/29/2018  02:48 PM    <DIR>          Desktop
+11/23/2018  06:13 PM    <DIR>          Documents
+11/29/2018  02:41 PM    <DIR>          Downloads
+10/16/2018  04:47 PM    <DIR>          eclipse
+11/26/2018  06:35 PM    <DIR>          eclipse-workspace
+11/15/2018  02:24 PM    <DIR>          Favorites
+11/01/2018  04:11 PM    <DIR>          Katalon Studio
+11/15/2018  02:24 PM    <DIR>          Links
+11/15/2018  02:24 PM    <DIR>          Music
+11/29/2018  02:49 PM                 0 new.txt
+11/29/2018  11:41 AM    <DIR>          OneDrive
+11/24/2018  11:21 AM    <DIR>          OpenVPN
+11/15/2018  02:24 PM    <DIR>          Pictures
+11/15/2018  02:24 PM    <DIR>          Saved Games
+11/15/2018  02:24 PM    <DIR>          Searches
+09/06/2018  09:43 PM    <DIR>          Tracing
+11/15/2018  02:24 PM    <DIR>          Videos
+               5 File(s)         26,532 bytes
+              30 Dir(s)  319,577,419,776 bytes free
